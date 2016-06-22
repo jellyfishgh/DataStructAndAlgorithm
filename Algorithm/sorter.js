@@ -173,7 +173,7 @@ function getRightChildIndex(parentIndex) {
 function minHeapFixup(arr, n) {
     var j = getParentIndex(n),
         temp = arr[n];
-    while (j >= 0 && n != 0) {
+    while (j >= 0 && n !== 0) {
         if (a[j] <= temp) break;
         a[n] = a[j];
         n = j;
