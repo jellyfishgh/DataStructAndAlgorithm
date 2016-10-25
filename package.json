@@ -1,0 +1,27 @@
+{
+  "name": "datastruct-algorithm",
+  "version": "1.0.0",
+  "description": "datastruct and algorithm",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jellyfishgh/DataStructAndAlgorithm.git"
+  },
+  "keywords": [
+    "datastruct",
+    "algorithm"
+  ],
+  "author": "jellyfishgh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jellyfishgh/DataStructAndAlgorithm/issues"
+  },
+  "homepage": "https://github.com/jellyfishgh/DataStructAndAlgorithm#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0"
+  }
+}

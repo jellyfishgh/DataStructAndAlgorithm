@@ -1,4 +1,4 @@
-var util = require('./util.js');
+import util from './util.'
 //var insertSorter = require('./insertSorter.js');
 
 // var array = [1, 2, 3];
